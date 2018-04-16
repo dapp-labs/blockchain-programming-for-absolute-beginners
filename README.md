@@ -1,6 +1,7 @@
 # DLearn
 Chapterwise code for the ebook - Blockchain Programming for Absolute Beginners
 
+------------------------------------------------------------------------------
 ### Contents
 ------------------------------------------------------------------------------
 
@@ -35,6 +36,7 @@ Chapterwise code for the ebook - Blockchain Programming for Absolute Beginners
 * Chapter 8
   - No code requirements
 
+------------------------------------------------------------------------------
 ### Author
 ------------------------------------------------------------------------------
 Tejas Nikumbh
