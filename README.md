@@ -1,9 +1,8 @@
 # DLearn
-
 Chapterwise code for the ebook - Blockchain Programming for Absolute Beginners
-------------------------------------------------------------------------------
 
 ### Contents
+------------------------------------------------------------------------------
 
 * Chapter 1
   - Hello world program in Solidity 
@@ -37,4 +36,5 @@ Chapterwise code for the ebook - Blockchain Programming for Absolute Beginners
   - No code requirements
 
 ### Author
+------------------------------------------------------------------------------
 Tejas Nikumbh
