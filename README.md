@@ -1,7 +1,7 @@
 # DLearn
 
 Chapterwise code for the ebook - Blockchain Programming for Absolute Beginners
-==============================================================================
+------------------------------------------------------------------------------
 
 ### Contents
 
