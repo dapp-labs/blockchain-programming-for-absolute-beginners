@@ -4,10 +4,12 @@ Chapterwise code for the ebook - Blockchain Programming for Absolute Beginners
 ### Contents
 
 * Chapter 1
-  - Hello world program in Solidity - StoreMessage.sol
+  - Hello world program in Solidity 
+    - StoreMessage.sol
   
 * Chapter 2
-  - The Patient Smart Contract - PatientSmartContract.sol
+  - The Patient Smart Contract 
+    - PatientSmartContract.sol
  
 * Chapter 3
   - Basic ERC20 Token using solidity
